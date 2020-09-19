@@ -1,0 +1,39 @@
+body{
+    background-image: url("../images/show.jpg");
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: snow;
+}
+
+.panel{
+    padding: 15px 15px 15px 15px;
+}
+.panel-up{
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    display: inline-flex;
+}
+.panel-inside{
+    display: inline-flex;
+}
+.panel-text{
+    padding: 0px 20px;
+}
+.price-panel{
+    background-color: #2d1b83;
+    display: inline block;
+}
+.sales{
+    display: block;
+}
+.price-details{
+    display: inline-block;
+    color: snow;
+}
+.left-padding{
+    padding: 0px 0px 0px 20px;
+}
+.left-padding{
+    padding: 0px 0px 0px 20px;
+    margin-right: 200px;
+}

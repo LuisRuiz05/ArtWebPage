@@ -1,0 +1,64 @@
+.card1{
+    width:30%;
+    height:auto;
+    margin-top: 5%;
+    margin-left: 2%;
+    background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
+    float: left;
+}
+
+.card-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-text{
+    margin-left: 3%;
+    margin-right: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:purple;
+}
+
+.card-img-top{
+    width: 70%;
+    height: auto;
+    display:block;
+    margin:auto;
+}
+
+.card2{
+    width: 30%;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 2%;
+    background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
+    float: left;
+}
+.card3{
+    width: 30%;
+    height: auto;
+    margin-top: 5%;
+    margin-left: 2%;
+    background-color: whitesmoke;
+    border-style: groove;
+    border-color: black;
+    float: left;
+}
+
+.item{
+    widows: 1440px;
+    height: auto;
+}
